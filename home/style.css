@@ -1,0 +1,66 @@
+header{
+    background-color:red;
+    color: white;
+    padding: 10px;    
+}
+
+.introduction{
+    margin-left: 400px; 
+   
+}
+
+nav{
+    padding-bottom: 500px;
+    background-image: url(https://canon1.ir/wp-content/uploads/2021/12/%DA%86%DA%AF%D9%88%D9%86%D9%87-%D9%BE%D8%B3-%D8%B2%D9%85%DB%8C%D9%86%D9%87-%D8%A7%DB%8C-%D8%AA%D8%A7%D8%B1-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%DA%A9%D9%86%DB%8C%D9%85.jpg); 
+    text-align: center; 
+}
+
+.menu{
+    margin-right: 30px;
+}
+
+#intro{
+    direction: rtl;
+    background-color: rgb(230,230,230);
+    color: darkgray;
+    text-align:center;
+    font-family:vazirmatn;
+    font-size: 15px;
+}
+
+#Services{
+    margin-bottom:20px;
+    text-align: right;
+    direction: rtl;
+    font-family:vazirmatn;
+    font-size: 18px;
+}
+
+h3{
+    text-align:left;
+    width:70%;
+}
+
+h2{
+    text-align:left;
+    width:30%;
+}
+
+#ContactUs{
+    text-align:center;
+    direction: rtl;
+}
+
+footer{
+    font-family:vazirmatn;
+    direction:rtl;
+    text-align:center;
+    background-color:red;
+    
+}
+.footerItems{
+    margin-left:20px;
+}
+address{
+    text-align:left;
+}
