@@ -1,66 +1,86 @@
+*{
+    direction: rtl;
+    font-family:vazirmatn;
+}
 header{
     background-color:red;
     color: white;
-    padding: 10px;    
+    padding-bottom:50px;
+    padding-top:0px;
+    text-align: center;       
 }
 
 .introduction{
-    margin-left: 400px; 
-   
+     margin: 200px;
 }
 
 nav{
+    padding-top: 20px;
     padding-bottom: 500px;
     background-image: url(https://canon1.ir/wp-content/uploads/2021/12/%DA%86%DA%AF%D9%88%D9%86%D9%87-%D9%BE%D8%B3-%D8%B2%D9%85%DB%8C%D9%86%D9%87-%D8%A7%DB%8C-%D8%AA%D8%A7%D8%B1-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%DA%A9%D9%86%DB%8C%D9%85.jpg); 
-    text-align: center; 
+    text-align: center;
+    background-repeat: no-repeat; 
+    background-size:cover;
 }
 
 .menu{
     margin-right: 30px;
 }
 
-#intro{
-    direction: rtl;
+#intro{    
     background-color: rgb(230,230,230);
     color: darkgray;
     text-align:center;
-    font-family:vazirmatn;
-    font-size: 15px;
+    padding-top: 40px;
+    margin-top: 40px;
+    padding-right: 300px;
+    padding-left: 300px;
+    padding-bottom: 40px;     
 }
 
 #Services{
+    margin-top: 40px;
     margin-bottom:20px;
     text-align: right;
-    direction: rtl;
-    font-family:vazirmatn;
     font-size: 18px;
+    
+}
+
+div{
+    margin-bottom: 200px;
+    margin-top: 100px;
+    padding-right:10px;
+    padding-left:10px;
+    text-align:center;
+   
 }
 
 h3{
     text-align:left;
-    width:70%;
+    width:100%;
 }
 
 h2{
     text-align:left;
-    width:30%;
+    width:50%;
 }
 
 #ContactUs{
     text-align:center;
-    direction: rtl;
+    margin-top:300px;
+    margin-bottom:100px;
 }
-
+    
 footer{
-    font-family:vazirmatn;
-    direction:rtl;
+
     text-align:center;
     background-color:red;
     
 }
 .footerItems{
     margin-left:20px;
+    
 }
 address{
     text-align:left;
-}
+} 
